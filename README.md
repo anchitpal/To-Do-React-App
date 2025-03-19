@@ -14,4 +14,4 @@ A simple and user-friendly To-Do application built with React to help you manage
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/react-todo-app.git
+   git clone https://github.com/anchitpal/react-todo-app.git
